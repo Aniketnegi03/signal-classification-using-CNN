@@ -14,12 +14,12 @@ OBJECTIVES:
 
 Results:
 1) Created a CNN classfier from scratch using Keras API in Tensorflow 2.0
-      epoch=100
+       no of epoch=50
       train accuracy = 61.95%
       test accuracy= 63.57%
 
 2) Utilised state of the art pretrained model "EfficientNet v2" using transfer learning approach.
-        epoch=5
+        no of epoch=5
      model parameter nontrainable
                         Train accuracy= 73.45% 
                         Test accuracy= 69.23%
