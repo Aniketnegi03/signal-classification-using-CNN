@@ -1,4 +1,5 @@
-CLASSIFYING RADIO SIGNALS FROM TELESCOPE USING CONVOLUTIONAL NEURAL NETWORKS
+                                       CLASSIFYING RADIO SIGNALS FROM TELESCOPE USING CONVOLUTIONAL NEURAL NETWORKS
+                                       
 The dataset for radio signal is captured at ALLAN TELESCOPE, SETI. SETI stands for Search for Extraterrestrial Intelligence is a collective term for scientific searches for intelligent extraterrestrial life, for example, monitoring electromagnetic radiation for signs of transmissions from civilizations on other planets.
 The signals captures are generally time series signal. Here proposed a Deep learning approach to classify radio signals into one of the 7 given categories. We first analyze the SETI dataset and visualize these radio signals by using 2D Spectrograms. The major goal of the project is to find a robust signal classification algorithm that could further assist the E.T. radio communication
 
@@ -12,7 +13,7 @@ OBJECTIVES:
         7) Implementing the Transfer Learning using EfficientNet
         8) Evaluating and comparing the  the results
 
-Results:
+RESULTs:
 1) Created a CNN classfier from scratch using Keras API in Tensorflow 2.0
        no of epoch=50
       train accuracy = 61.95%
